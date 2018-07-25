@@ -18,6 +18,8 @@ $ wget https://www.dropbox.com/s/2dw1oz9l9hi9avg/optimized_openpose.pb
 $ cd ..
 ```
 
+Run Model.ipynb notebook
+
 ### Prerequisites
 ```
 Tensorflow
@@ -26,12 +28,14 @@ Pympi
 Pillow
 ```
 
+
 ## Classifiers
 
-The main classifier used is the one created in Classifiers/Keras L - layer classifier
-SVM classifier test contains SVM and random forest classifiers that can be alternatively used
+The main classifier used is the one created in "Classifiers/Keras L - layer classifier". 
+"SVM classifier test" contains SVM and random forest classifiers that can be alternatively used.
 
-### Datasets
+
+## Datasets
 
 The datasets that have been used for the training are located in Classifiers folder
 
