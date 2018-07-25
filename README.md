@@ -35,13 +35,6 @@ SVM classifier test contains SVM and random forest classifiers that can be alter
 The datasets that have been used for the training are located in Classifiers folder
 
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-
 ## Acknowledgments
 
 * [alesano] (https://gist.github.com/alesolano)
