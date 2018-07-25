@@ -9,6 +9,7 @@ His code is also based on Ildoo Kim's code (https://github.com/ildoonet/tf-openp
 ## Getting Started
 ```
 Fork the project
+$ mkdir Input/orig_frames
 $ mkdir Output/openpos 
 $ mkdir Output/final
 $ mkdir models
